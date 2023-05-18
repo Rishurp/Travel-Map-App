@@ -48,7 +48,7 @@ const getPins = async ()=>{
 
   try{
 
-    const res = await axios.get("/pins");
+    const res = await axios.get("https://travel-map-ch6g.onrender.com/api/pins");
     setPins(res.data);
   }catch(err)
     {
@@ -97,7 +97,7 @@ const handleSubmit = async (e) =>
 
   try{
 
-    const res = await axios.post("/pins",newPin);
+    const res = await axios.post("https://travel-map-ch6g.onrender.com/api/pins",newPin);
     setPins([...pins,res.data]);
     setNewPlace(null);
 
