@@ -1,3 +1,4 @@
+
 # Travel Map App
 
 Travel Map App is an interactive platform for users to mark and explore travel destinations on a map. It enables users to create personalized travel itineraries, track visited locations, and plan future trips. The app is built with **React**, **Node.js**, **Express.js**, and **MongoDB**, integrating the **Mapbox API** to provide an engaging visual experience.
@@ -56,6 +57,21 @@ Travel Map App is an interactive platform for users to mark and explore travel d
 - **Build**: `npm run build` - Builds the app for production.
 - **Test**: `npm test` - Runs the test suite.
 
+## Screenshots
+
+Here's a preview of the application:
+
+![Screenshot 2024-10-12 133049](https://github.com/user-attachments/assets/03ac3817-4399-453e-ae0e-7ddc9915155f)
+![Screenshot 2024-10-12 133122](https://github.com/user-attachments/assets/ce2f7944-5976-4b96-a065-d7b45c9de5ef)
+![Screenshot 2024-10-12 133158](https://github.com/user-attachments/assets/34e2ace4-f038-4559-af1d-86f6ca03c238)
+![Screenshot (342)](https://github.com/user-attachments/assets/67361167-cf2b-49d4-8533-8d854bb5100c)
+![Screenshot (343)](https://github.com/user-attachments/assets/89cace8c-1008-4804-bb35-71eb98f92a33)
+
+
+
+
+
+
 ## Dependencies
 
 Key packages used in the project:
@@ -70,3 +86,7 @@ The app uses a proxy configuration in `package.json` to communicate with the bac
 
 ## License
 This project is licensed under the MIT License.
+
+---
+
+Make sure to update the screenshot path accordingly!
