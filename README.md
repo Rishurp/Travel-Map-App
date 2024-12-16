@@ -57,6 +57,10 @@ Travel Map App is an interactive platform for users to mark and explore travel d
 - **Build**: `npm run build` - Builds the app for production.
 - **Test**: `npm test` - Runs the test suite.
 
+### Backend
+
+Follow in the [Backend Repository](https://github.com/Rishurp/Travel-Map-App-Backend)
+
 ## Screenshots
 
 Here's a preview of the application:
