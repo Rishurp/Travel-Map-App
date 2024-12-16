@@ -59,7 +59,7 @@ Travel Map App is an interactive platform for users to mark and explore travel d
 
 ### Backend
 
-Follow in the [Backend Repository](https://github.com/Rishurp/Travel-Map-App-Backend)
+Follow instructions in the [Backend Repository](https://github.com/Rishurp/Travel-Map-App-Backend)
 
 ## Screenshots
 
